@@ -1,7 +1,7 @@
 ### Hi there 👋, BeeDev Services
 #### Our Business Github Organization
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / LESS / Python / Django / Flask / MySQL
 
 - 🔭 I’m currently working on the Business Website 
 - 💬 Ask me about What Services We offer 
