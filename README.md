@@ -3,7 +3,6 @@
 
 Skills: REACT / JS / HTML / CSS / LESS / Python / Django / Flask / MySQL
 
-- 🔭 I’m currently working on the Business Website 
 - 💬 Ask me about What Services We offer 
 - 📫 How to reach me: melissa@beedev-services.com 
 
